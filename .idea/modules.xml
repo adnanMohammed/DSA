@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/DSA.iml" filepath="$PROJECT_DIR$/.idea/DSA.iml" />
+      <module fileurl="file://$PROJECT_DIR$/com.DSA.2DArrays/com.DSA.2DArrays.iml" filepath="$PROJECT_DIR$/com.DSA.2DArrays/com.DSA.2DArrays.iml" />
+      <module fileurl="file://$PROJECT_DIR$/com.DSA.Arrays/com.DSA.Arrays.iml" filepath="$PROJECT_DIR$/com.DSA.Arrays/com.DSA.Arrays.iml" />
+      <module fileurl="file://$PROJECT_DIR$/com.DSA.basics/com.DSA.basics.iml" filepath="$PROJECT_DIR$/com.DSA.basics/com.DSA.basics.iml" />
+    </modules>
+  </component>
+</project>
