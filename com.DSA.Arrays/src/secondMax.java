@@ -5,14 +5,6 @@ public class secondMax {
     }
 
     private static int secondMaxInArray(int[] arr) {
-        if(arr.length<=0){
-            System.out.println("No data is available in an array");
-            return -1;
-        }
-        if(arr.length==1){
-            System.out.println("only one element in an array");
-            return -2;
-        }
         int max = arr[0], secMax = arr[1];
         if (max < secMax) {
             max = max + secMax;
