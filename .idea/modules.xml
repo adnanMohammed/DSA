@@ -5,6 +5,7 @@
       <module fileurl="file://$PROJECT_DIR$/.idea/DSA.iml" filepath="$PROJECT_DIR$/.idea/DSA.iml" />
       <module fileurl="file://$PROJECT_DIR$/com.DSA.2DArrays/com.DSA.2DArrays.iml" filepath="$PROJECT_DIR$/com.DSA.2DArrays/com.DSA.2DArrays.iml" />
       <module fileurl="file://$PROJECT_DIR$/com.DSA.Arrays/com.DSA.Arrays.iml" filepath="$PROJECT_DIR$/com.DSA.Arrays/com.DSA.Arrays.iml" />
+      <module fileurl="file://$PROJECT_DIR$/com.DSA.Sorting/com.DSA.Sorting.iml" filepath="$PROJECT_DIR$/com.DSA.Sorting/com.DSA.Sorting.iml" />
       <module fileurl="file://$PROJECT_DIR$/com.DSA.basics/com.DSA.basics.iml" filepath="$PROJECT_DIR$/com.DSA.basics/com.DSA.basics.iml" />
     </modules>
   </component>
