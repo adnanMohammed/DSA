@@ -11,6 +11,7 @@
       <module fileurl="file://$PROJECT_DIR$/com.DSA.Sorting.CycleSort/com.DSA.Sorting.CycleSort.iml" filepath="$PROJECT_DIR$/com.DSA.Sorting.CycleSort/com.DSA.Sorting.CycleSort.iml" />
       <module fileurl="file://$PROJECT_DIR$/com.DSA.basics/com.DSA.basics.iml" filepath="$PROJECT_DIR$/com.DSA.basics/com.DSA.basics.iml" />
       <module fileurl="file://$PROJECT_DIR$/com.DSA.binarySearch.2DArray/com.DSA.binarySearch.2DArray.iml" filepath="$PROJECT_DIR$/com.DSA.binarySearch.2DArray/com.DSA.binarySearch.2DArray.iml" />
+      <module fileurl="file://$PROJECT_DIR$/com.DSA.patternsQuestions/com.DSA.patterns.iml" filepath="$PROJECT_DIR$/com.DSA.patternsQuestions/com.DSA.patterns.iml" />
     </modules>
   </component>
 </project>
