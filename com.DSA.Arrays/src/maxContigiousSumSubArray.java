@@ -1,9 +1,9 @@
 public class maxContigiousSumSubArray {
     public static void main(String[] args) {
         //int[] arr = {-2, -3, 4, -1, -2, 1, 5, -3};
-        int[] arr={-1,-2,-3,-4};
-        //System.out.println("max SubArray=" + maxContigiousSumSubArray(arr, arr.length));
-        System.out.println("max SubArray=" + maxContigiousSumSubArray_KadenesAlgorithm(arr, arr.length));
+        int[] arr = {-1, -2, 1, 3, -4};
+        System.out.println("max SubArray=" + maxContigiousSumSubArray(arr, arr.length));
+        //System.out.println("max SubArray=" + maxContigiousSumSubArray_KadenesAlgorithm(arr, arr.length));
     }
 
     //bruteForce solution O(N2) Time Complexity

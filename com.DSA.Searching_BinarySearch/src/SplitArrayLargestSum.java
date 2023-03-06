@@ -1,9 +1,9 @@
 public class SplitArrayLargestSum {
 
     public static void main(String[] args) {
-        // int[] nums = {7, 2, 5, 10, 8};
-        int[] nums = {1, 4,4};
-        int m = 3;
+         int[] nums = {7, 2, 5, 10, 8};
+        //int[] nums = {1, 4,4};
+        int m = 2;
         System.out.println(splitArray(nums, m));
     }
 
@@ -37,11 +37,11 @@ public class SplitArrayLargestSum {
                     piece += 1;
                 }
             }
-            if (piece <= m) {
+            if (piece > m) {
+                 s = mid + 1;
+            } else
                 e = mid;
-            } else if (piece > m) {
-                s = mid + 1;
-            }
+
         }
         return s;
     }
