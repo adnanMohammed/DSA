@@ -1,5 +1,7 @@
 public class mutable_immutable_example {
     public static void main(String[] args) {
+        child1 c=new child1();
+
         String str = "adnan";//objects assigned in String pool Memory location
         String str2 = "adnan";//objects assigned in String pool Memory location with same reference
         String str3 = new String("adnan");//objects assigned in String pool Memory location as well Memory Heap
