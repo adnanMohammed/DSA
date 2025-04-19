@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-11">
+		<attributes>
+			<attribute name="module" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="src" path="com.DSA.2DArrays/src"/>
+	<classpathentry kind="src" path="com.DSA.ArrayList/src"/>
+	<classpathentry kind="src" path="com.DSA.Arrays/src"/>
+	<classpathentry kind="src" path="com.DSA.BackTracking/src"/>
+	<classpathentry kind="src" path="com.DSA.binarySearch.2DArray/src"/>
+	<classpathentry kind="src" path="com.DSA.BinarySearchTree/src"/>
+	<classpathentry kind="src" path="com.DSA.BinaryTree.DFS/src"/>
+	<classpathentry kind="src" path="com.DSA.BinaryTree/src"/>
+	<classpathentry kind="src" path="com.DSA.Bit.Manipulation/src"/>
+	<classpathentry kind="src" path="com.DSA.GreedyAlgorithm/src"/>
+	<classpathentry kind="src" path="com.DSA.Hashing/src"/>
+	<classpathentry kind="src" path="com.DSA.Heap/src"/>
+	<classpathentry kind="src" path="com.DSA.LinkedList/src"/>
+	<classpathentry kind="src" path="com.DSA.patternsQuestions/src"/>
+	<classpathentry kind="src" path="com.DSA.Recursion.subsets.subsequences/src"/>
+	<classpathentry kind="src" path="com.DSA.Recursion/src"/>
+	<classpathentry kind="src" path="com.DSA.Searching_BinarySearch/src"/>
+	<classpathentry kind="src" path="com.DSA.SlidingWindow/src"/>
+	<classpathentry kind="src" path="com.DSA.Sorting.CycleSort/src"/>
+	<classpathentry kind="src" path="com.DSA.Sorting/src"/>
+	<classpathentry kind="src" path="com.DSA.Stack_N_Queue/src"/>
+	<classpathentry kind="src" path="com.DSA.String/src"/>
+	<classpathentry kind="src" path="com.DSA.Trees/src"/>
+	<classpathentry kind="src" path="com.JAVA_topics/src"/>
+	<classpathentry kind="src" path="com.JAVA.abstract_interface/src"/>
+	<classpathentry kind="src" path="com.JAVA.Clone/src"/>
+	<classpathentry kind="src" path="com.JAVA.Collection.Enum/src"/>
+	<classpathentry kind="src" path="com.JAVA.comparable/src"/>
+	<classpathentry kind="src" path="com.JAVA.DesignPattern.Factory/src"/>
+	<classpathentry kind="src" path="com.JAVA.DesignPattern.Observer/src"/>
+	<classpathentry kind="src" path="com.JAVA.Exception/src"/>
+	<classpathentry kind="src" path="com.JAVA.Generics/src"/>
+	<classpathentry kind="src" path="com.JAVA.inheritance/src"/>
+	<classpathentry kind="src" path="com.java.JDBC/src"/>
+	<classpathentry kind="src" path="com.JAVA.LambdaExpression/src"/>
+	<classpathentry kind="src" path="com.JAVA.modifiers/src"/>
+	<classpathentry kind="src" path="com.JAVA.MultiThreading/src"/>
+	<classpathentry kind="src" path="com.JAVA.MultiThreading2/src"/>
+	<classpathentry kind="src" path="com.Java.OOPS/src"/>
+	<classpathentry kind="src" path="com.JAVA.StreamAPI/src"/>
+	<classpathentry kind="lib" path="C:/Users/MOAD/Data/sqljdbc_12.8.1.0_enu/sqljdbc_12.8/enu/jars/mssql-jdbc-12.8.1.jre11.jar" sourcepath="C:/Users/MOAD/Data/sqljdbc_12.8.1.0_enu/sqljdbc_12.8/enu/jars/mssql-jdbc-12.8.1.jre11.jar"/>
+	<classpathentry kind="output" path="out/production/com.DSA.2DArrays"/>
+</classpath>

@@ -4,10 +4,10 @@ import java.util.List;
 public class letterCombinations {
 
     public static void main(String[] args) {
-        pad("","abc");
-      for (String res : padAL("", "67")) {
+        pad("","23");
+     /* for (String res : padAL("", "67")) {
             System.out.print(res + ",");
-        }
+        }*/
     }
 
 

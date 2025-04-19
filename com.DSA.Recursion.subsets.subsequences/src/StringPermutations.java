@@ -3,9 +3,10 @@ import java.util.ArrayList;
 public class StringPermutations {
 
     public static void main(String[] args) {
-        for (String ans : permutationArrayList("", "abc")) {
+       /* for (String ans : permutationArrayList("", "abc")) {
             System.out.print(ans + ",");
-        }
+        }*/
+        permutation("","abc");
     }
 
     public static void permutation(String proc, String unproc) {

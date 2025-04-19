@@ -7,28 +7,43 @@
       <module fileurl="file://$PROJECT_DIR$/com.DSA.ArrayList/com.DSA.ArrayList.iml" filepath="$PROJECT_DIR$/com.DSA.ArrayList/com.DSA.ArrayList.iml" />
       <module fileurl="file://$PROJECT_DIR$/com.DSA.Arrays/com.DSA.Arrays.iml" filepath="$PROJECT_DIR$/com.DSA.Arrays/com.DSA.Arrays.iml" />
       <module fileurl="file://$PROJECT_DIR$/com.DSA.BackTracking/com.DSA.BackTracking.iml" filepath="$PROJECT_DIR$/com.DSA.BackTracking/com.DSA.BackTracking.iml" />
+      <module fileurl="file://$PROJECT_DIR$/com.DSA.BinarySearchTree/com.DSA.BinarySearchTree.iml" filepath="$PROJECT_DIR$/com.DSA.BinarySearchTree/com.DSA.BinarySearchTree.iml" />
+      <module fileurl="file://$PROJECT_DIR$/com.DSA.BinaryTree/com.DSA.BinaryTree.BFS.iml" filepath="$PROJECT_DIR$/com.DSA.BinaryTree/com.DSA.BinaryTree.BFS.iml" />
+      <module fileurl="file://$PROJECT_DIR$/com.DSA.BinaryTree.DFS/com.DSA.BinaryTree.DFS.iml" filepath="$PROJECT_DIR$/com.DSA.BinaryTree.DFS/com.DSA.BinaryTree.DFS.iml" />
+      <module fileurl="file://$PROJECT_DIR$/com.DSA.Bit.Manipulation/com.DSA.Bit.Manipulation.iml" filepath="$PROJECT_DIR$/com.DSA.Bit.Manipulation/com.DSA.Bit.Manipulation.iml" />
+      <module fileurl="file://$PROJECT_DIR$/com.DSA.GreedyAlgorithm/com.DSA.GreedyAlgorithm.iml" filepath="$PROJECT_DIR$/com.DSA.GreedyAlgorithm/com.DSA.GreedyAlgorithm.iml" />
+      <module fileurl="file://$PROJECT_DIR$/com.DSA.Hashing/com.DSA.Hashing.iml" filepath="$PROJECT_DIR$/com.DSA.Hashing/com.DSA.Hashing.iml" />
+      <module fileurl="file://$PROJECT_DIR$/com.DSA.Heap/com.DSA.Heap.iml" filepath="$PROJECT_DIR$/com.DSA.Heap/com.DSA.Heap.iml" />
       <module fileurl="file://$PROJECT_DIR$/com.DSA.LinkedList/com.DSA.LinkedList.iml" filepath="$PROJECT_DIR$/com.DSA.LinkedList/com.DSA.LinkedList.iml" />
       <module fileurl="file://$PROJECT_DIR$/com.DSA.Recursion/com.DSA.Recursion.iml" filepath="$PROJECT_DIR$/com.DSA.Recursion/com.DSA.Recursion.iml" />
       <module fileurl="file://$PROJECT_DIR$/com.DSA.Recursion.subsets.subsequences/com.DSA.Recursion.subsets.subsequences.iml" filepath="$PROJECT_DIR$/com.DSA.Recursion.subsets.subsequences/com.DSA.Recursion.subsets.subsequences.iml" />
       <module fileurl="file://$PROJECT_DIR$/com.DSA.Revision/com.DSA.Revision.iml" filepath="$PROJECT_DIR$/com.DSA.Revision/com.DSA.Revision.iml" />
       <module fileurl="file://$PROJECT_DIR$/com.DSA.Searching_BinarySearch/com.DSA.Searching.iml" filepath="$PROJECT_DIR$/com.DSA.Searching_BinarySearch/com.DSA.Searching.iml" />
+      <module fileurl="file://$PROJECT_DIR$/com.DSA.SlidingWindow/com.DSA.SlidingWindow.iml" filepath="$PROJECT_DIR$/com.DSA.SlidingWindow/com.DSA.SlidingWindow.iml" />
       <module fileurl="file://$PROJECT_DIR$/com.DSA.Sorting/com.DSA.Sorting.iml" filepath="$PROJECT_DIR$/com.DSA.Sorting/com.DSA.Sorting.iml" />
       <module fileurl="file://$PROJECT_DIR$/com.DSA.Sorting.CycleSort/com.DSA.Sorting.CycleSort.iml" filepath="$PROJECT_DIR$/com.DSA.Sorting.CycleSort/com.DSA.Sorting.CycleSort.iml" />
       <module fileurl="file://$PROJECT_DIR$/com.DSA.Stack_N_Queue/com.DSA.Stack_N_Queue.iml" filepath="$PROJECT_DIR$/com.DSA.Stack_N_Queue/com.DSA.Stack_N_Queue.iml" />
       <module fileurl="file://$PROJECT_DIR$/com.DSA.String/com.DSA.String.iml" filepath="$PROJECT_DIR$/com.DSA.String/com.DSA.String.iml" />
+      <module fileurl="file://$PROJECT_DIR$/com.DSA.Trees/com.DSA.Trees.iml" filepath="$PROJECT_DIR$/com.DSA.Trees/com.DSA.Trees.iml" />
       <module fileurl="file://$PROJECT_DIR$/com.DSA.binarySearch.2DArray/com.DSA.binarySearch.2DArray.iml" filepath="$PROJECT_DIR$/com.DSA.binarySearch.2DArray/com.DSA.binarySearch.2DArray.iml" />
       <module fileurl="file://$PROJECT_DIR$/com.DSA.patternsQuestions/com.DSA.patterns.iml" filepath="$PROJECT_DIR$/com.DSA.patternsQuestions/com.DSA.patterns.iml" />
       <module fileurl="file://$PROJECT_DIR$/com.JAVA.Clone/com.JAVA.Clone.iml" filepath="$PROJECT_DIR$/com.JAVA.Clone/com.JAVA.Clone.iml" />
       <module fileurl="file://$PROJECT_DIR$/com.JAVA.Collection.Enum/com.JAVA.Collection.Enum.iml" filepath="$PROJECT_DIR$/com.JAVA.Collection.Enum/com.JAVA.Collection.Enum.iml" />
+      <module fileurl="file://$PROJECT_DIR$/com.JAVA.DesignPattern.Factory/com.JAVA.DesignPattern.iml" filepath="$PROJECT_DIR$/com.JAVA.DesignPattern.Factory/com.JAVA.DesignPattern.iml" />
+      <module fileurl="file://$PROJECT_DIR$/com.JAVA.DesignPattern.Observer/com.JAVA.DesignPattern.Observer.iml" filepath="$PROJECT_DIR$/com.JAVA.DesignPattern.Observer/com.JAVA.DesignPattern.Observer.iml" />
       <module fileurl="file://$PROJECT_DIR$/com.JAVA.Exception/com.JAVA.Exception.iml" filepath="$PROJECT_DIR$/com.JAVA.Exception/com.JAVA.Exception.iml" />
       <module fileurl="file://$PROJECT_DIR$/com.JAVA.Generics/com.JAVA.Generics.iml" filepath="$PROJECT_DIR$/com.JAVA.Generics/com.JAVA.Generics.iml" />
       <module fileurl="file://$PROJECT_DIR$/com.JAVA.LambdaExpression/com.JAVA.LambdaExpression.iml" filepath="$PROJECT_DIR$/com.JAVA.LambdaExpression/com.JAVA.LambdaExpression.iml" />
-      <module fileurl="file://$PROJECT_DIR$/com.JAVA.abstract_interface/com.JAVA.abstract_interface.iml" filepath="$PROJECT_DIR$/com.JAVA.abstract_interface/com.JAVA.abstract_interface.iml" />
+      <module fileurl="file://$PROJECT_DIR$/com.JAVA.MultiThreading/com.JAVA.MultiThreading.iml" filepath="$PROJECT_DIR$/com.JAVA.MultiThreading/com.JAVA.MultiThreading.iml" />
+      <module fileurl="file://$PROJECT_DIR$/com.JAVA.MultiThreading2/com.JAVA.MultiThreading2.iml" filepath="$PROJECT_DIR$/com.JAVA.MultiThreading2/com.JAVA.MultiThreading2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/com.JAVA.StreamAPI/com.JAVA.StreamAPI.iml" filepath="$PROJECT_DIR$/com.JAVA.StreamAPI/com.JAVA.StreamAPI.iml" />
+      <module fileurl="file://$PROJECT_DIR$/com.JAVA.abstract_interface/com.JAVA.abstract_interface_functionalInterface.iml" filepath="$PROJECT_DIR$/com.JAVA.abstract_interface/com.JAVA.abstract_interface_functionalInterface.iml" />
       <module fileurl="file://$PROJECT_DIR$/com.JAVA.comparable/com.JAVA.comparable_comparator.iml" filepath="$PROJECT_DIR$/com.JAVA.comparable/com.JAVA.comparable_comparator.iml" />
       <module fileurl="file://$PROJECT_DIR$/com.JAVA.inheritance/com.JAVA.inheritance.iml" filepath="$PROJECT_DIR$/com.JAVA.inheritance/com.JAVA.inheritance.iml" />
       <module fileurl="file://$PROJECT_DIR$/com.JAVA.modifiers/com.JAVA.modifiers.iml" filepath="$PROJECT_DIR$/com.JAVA.modifiers/com.JAVA.modifiers.iml" />
       <module fileurl="file://$PROJECT_DIR$/com.JAVA_topics/com.JAVA_topics.iml" filepath="$PROJECT_DIR$/com.JAVA_topics/com.JAVA_topics.iml" />
       <module fileurl="file://$PROJECT_DIR$/com.Java.OOPS/com.Java.OOPS.iml" filepath="$PROJECT_DIR$/com.Java.OOPS/com.Java.OOPS.iml" />
+      <module fileurl="file://$PROJECT_DIR$/com.java.JDBC/com.java.JDBC.iml" filepath="$PROJECT_DIR$/com.java.JDBC/com.java.JDBC.iml" />
     </modules>
   </component>
 </project>
